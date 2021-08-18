@@ -1,0 +1,211 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  font-family : Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  .middle
+  {
+    margin-top: 10%;
+    margin-bottom : 10%;
+  }
+  
+  
+  .one
+  {
+    width : 33%;
+    padding : 5%;
+    display: inline;
+    float : left;
+  }
+  
+  .one img
+  {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom : 20px;
+  }
+  
+  
+  
+  .two
+  {
+    width : 33%;
+    padding : 5%;
+    display: inline;
+    float : left;
+  }
+  
+  .two img
+  {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .three
+  {
+    width : 33%;
+    padding : 5%;
+    display: inline;
+    float : left;
+  }
+  
+  .three img
+  {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  
+.site-header
+{
+    background-color: darkslategrey;
+    color : white;
+    padding : 5%;
+    
+}
+  
+.head-text button
+{
+    background-color: transparent;
+    padding : 12px 24px;
+    color : white;
+    border: white solid;
+    border-radius: 5px;
+    margin-top : 40px;
+}
+  
+.head-text
+{
+  margin-top: 100px;
+  text-align: center;
+}
+
+
+.head-text .p1
+{
+  font-size: 25px;
+}
+   
+.links
+{
+    margin-top: 20px;
+    float: right;
+    width: 50%;
+}
+  
+.links a
+{
+    margin-left: 17px;
+    font-size : 15px;
+    text-decoration: none;
+    color : white;
+}
+  
+  
+.head-left
+{
+  
+    float:left;
+    text-align: center;
+    width: 50%;
+    display: inline;
+    font-size: 30px;  
+} 
+  
+.head-right
+{
+  float: right;
+  width: 50%;
+  display: inline;
+  text-align : center;
+  font-size : 15px;  
+}
+
+#w2
+{
+  text-align: center;
+}
+
+  
+  
+.onep1
+{
+  margin-bottom: 20px;
+}
+  
+.twop1
+{
+  margin-bottom: 20px;
+}
+  
+.threep1
+{
+  margin-bottom: 20px;
+}
+  
+.onep2
+{
+  margin-bottom: 20px;
+}
+  
+  
+.twop2
+{
+  margin-bottom: 20px;
+}
+  
+  
+  
+.threep2
+{
+  margin-bottom: 20px;
+}
+  
+.site-footer
+{
+    margin-top: 50%;
+    background-color: darkslategrey;
+    color: white;
+    height : 100px;
+    padding: 5%;
+}
+  
+.site-footer .footer-links
+{
+  float: right;
+  width : 50%;
+  font-size : 10px;
+  display : inline;
+}
+
+.site-footer .footer-links a
+{
+  margin-left : 20px; 
+}
+  
+
+.site-footer .footer-pg
+{
+  float : left;
+  width : 50%;
+ display : inline;
+ text-align: center;
+}
+
+.site-footer .footer-pg p 
+{
+  font-size : 15px;
+}
